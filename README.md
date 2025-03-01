@@ -33,7 +33,7 @@ The dataset used in this project consists of **five tables** from the **Adventur
 
 **Northstar Metric**
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/374dd8d0-5b0d-4656-b1b9-0f3d71a8818b" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1256de1f-475f-4387-b845-93de6cb36b3d" />
 
 **Define Point of View**
 
@@ -92,6 +92,7 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 - Price variance is significant (29.95), requiring further review for pricing consistency.
 - HL Mountain Seat/Saddle has the highest stocked quantity (11,000), while some products have a "Quantity to Buy" status, signaling potential shortages.
 - Last receipt cost is higher (41) than the standard price (39) for key products, impacting cost efficiency.
+  
 **3. Cost**
 
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/ccd0052f-437b-4692-9e78-059775f11cff" />
